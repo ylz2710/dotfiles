@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yanginstrl@gmail.com
+	name = Yeliz Angin
